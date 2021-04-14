@@ -295,7 +295,7 @@
 
   function makeTimer() {
 
-		var endTime = new Date("21 December 2019 9:56:00 GMT+01:00");			
+		var endTime = new Date("19 September 2019 0:00:00 CST+00:00");			
 		endTime = (Date.parse(endTime) / 1000);
 
 		var now = new Date();
